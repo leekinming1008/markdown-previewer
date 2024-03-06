@@ -16,6 +16,6 @@ This is the pure React application to style the user input text to styled text u
 ![image](https://github.com/leekinming1008/markdown-previewer/assets/161342574/94551bd9-72fa-42d9-aa71-e61ecde898d0)
 
 ##Reference
-Markdown cheat sheet is reference from https://www.markdownguide.org/cheat-sheet/
+Markdown cheat sheet is referencing from https://www.markdownguide.org/cheat-sheet/
 
 
