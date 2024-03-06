@@ -4,6 +4,7 @@ import styled from "styled-components";
 const InputContainer = styled.div`
   width: 100%;
   padding-right: 40px;
+  border-style: solid;
 `;
 const StyledTextArea = styled.textarea`
   width: 100%;

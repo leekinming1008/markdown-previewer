@@ -5,6 +5,7 @@ import styled from "styled-components";
 // Create a Output container styled component which is a div
 const OutputContainer = styled.div`
   width: 100%;
+  border-style: solid;
 `;
 
 // create the interface for the props
